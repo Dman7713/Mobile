@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Center
   - TargetObject
+  - Map
+  - Enemy
+  - Item
   layers:
   - Default
   - TransparentFX
